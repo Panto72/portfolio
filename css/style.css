@@ -1,0 +1,58 @@
+.left-content{
+    margin: 10px 10%;
+    width: 50%;
+}
+.left-content h1{
+    font-size: 45px;
+}
+.primary-color{
+    color: orange;
+}
+.left-content h2{
+    font-size: 25px;
+}
+.first-section .left-content p{
+    text-align: justify;
+    line-height: 20px;
+}
+.btn{
+    padding: 10px 10px;
+    background-color: orange;
+    color: white;
+    border: none;
+}
+.first-section{
+    display: flex;
+}
+.first-section .right-content img{
+    border-radius: 50%;
+    height: 90%;
+    width: 90%;
+    margin: 20px 20px;
+}
+.section2 .left-content{
+    margin: 0;
+    width: 40%;
+}
+.right-content2{
+    margin: 20px;
+    width: 60%;
+    
+}
+.right-content2 p{
+    text-align: justify;
+    line-height: 20px;
+    margin: 10px;
+}
+.section2 .left-content img{
+    height: 100%;
+    width: 100%;
+}
+.section2{
+    display: flex;
+}
+.section2 .right-content2 button{
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+}
